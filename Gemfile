@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0'
 gem 'devise'
 gem 'simple_form'
+gem 'rails_12factor', group: :production
 
 group :development do
    gem 'sqlite3'
