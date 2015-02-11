@@ -3,7 +3,8 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
-
+gem 'devise'
+gem 'simple_form'
 
 group :development do
    gem 'sqlite3'
