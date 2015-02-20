@@ -7,6 +7,7 @@ gem 'devise'
 gem 'simple_form'
 gem 'rails_12factor', group: :production
 gem "paperclip", "~> 4.2"
+gem 'aws-sdk'
 
 group :development do
    gem 'sqlite3'
