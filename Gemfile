@@ -8,6 +8,9 @@ gem 'simple_form'
 gem 'rails_12factor', group: :production
 gem "paperclip", "~> 4.2"
 gem 'aws-sdk'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :development do
    gem 'sqlite3'
